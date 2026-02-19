@@ -12,10 +12,8 @@ Welcome to the official developer page for **Korean Crossword**, the ultimate pu
 
 ## Support & Contact
 If you have any questions, feedback, or need technical assistance, please feel free to reach out:
-* **Email:** [Your Email Address Here]
+* **Email:** xndxndtl@gmail.com
 
-## Technical Links
-* [Privacy Policy](./privacy-policy.md)
 * [Authorized Digital Sellers (app-ads.txt)](./app-ads.txt)
 
 ---
